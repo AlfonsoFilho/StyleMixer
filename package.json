@@ -1,0 +1,8 @@
+{
+  "name": "style-mixer",
+  "version": "1.0.0",
+  "description": "Composable SCSS UI Pattern Framework",
+  "main": "index.js",
+  "author": "Alfonso Filho <alfonsocfilho@gmail.com>",
+  "license": "MIT"
+}
